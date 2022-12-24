@@ -21,3 +21,7 @@ Users are then prompted to enter their Payment Details namely their Card Details
 It has a Client and Server backend made using MERN.
 The MongoDB Database uses a User Schema to create new users using the form data and stores it into the Atlas DB.
 
+# Here is the ERD for the Database
+![image](https://user-images.githubusercontent.com/62051208/209423105-452a29fa-42e9-4074-9940-0ad465e6eb2c.png)
+
+
